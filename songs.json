@@ -88,12 +88,12 @@
             "tags": [
                 "流行"
             ],
-            "price": 999,
+            "price": 0,
             "isCaptain": false,
             "isGuard": false,
             "isGrandGuard": false,
-            "detail": "lll",
-            "link": "333",
+            "detail": "",
+            "link": "",
             "imgUrl": ""
         },
         {
@@ -2197,13 +2197,15 @@
             "name": "测试",
             "artist": "测试",
             "language": "华语",
-            "tags": [],
+            "tags": [
+                "0"
+            ],
             "price": 0,
             "isCaptain": false,
-            "isGuard": false,
+            "isGuard": true,
             "isGrandGuard": false,
-            "detail": "实打实大时代",
-            "link": "dddd",
+            "detail": "是",
+            "link": "sss",
             "imgUrl": ""
         }
     ]
