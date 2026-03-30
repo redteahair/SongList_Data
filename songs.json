@@ -6,7 +6,7 @@
             "artist": "测试",
             "language": "华语",
             "tags": [
-                "流行"
+                "0"
             ],
             "price": 0,
             "isCaptain": false,
@@ -2207,6 +2207,22 @@
             "detail": "和帕莎的伪合唱",
             "link": "https://www.bilibili.com/video/BV1uy6tBtENj/?spm_id_from=333.1387.homepage.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
             "imgUrl": "https://i0.hdslb.com/bfs/archive/9abe184768bad16a93556bb97ffd585c9677ac44.jpg"
+        },
+        {
+            "id": "1139",
+            "name": "测试2",
+            "artist": "事实是",
+            "language": "日语",
+            "tags": [
+                "流行"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": true,
+            "detail": "湿哒哒",
+            "link": "dasdasd",
+            "imgUrl": ""
         }
     ]
 }
