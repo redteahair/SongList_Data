@@ -2256,6 +2256,23 @@
             "detail": "测试备注",
             "link": "sss",
             "imgUrl": ""
+        },
+        {
+            "id": "1142",
+            "name": "示例歌曲2",
+            "artist": "MKK",
+            "language": "华语",
+            "tags": [
+                "流行",
+                "摇滚"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "测试备注",
+            "link": "sss",
+            "imgUrl": ""
         }
     ]
 }
