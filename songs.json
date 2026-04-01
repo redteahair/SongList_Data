@@ -2326,15 +2326,15 @@
         },
         {
             "id": "1146",
-            "name": "改32！！！！！！！！！",
+            "name": "改323！！！！！！！！！",
             "artist": "大叔大婶",
             "language": "华语",
             "tags": [
                 "大声地"
             ],
             "price": 999,
-            "isCaptain": false,
-            "isGuard": false,
+            "isCaptain": true,
+            "isGuard": true,
             "isGrandGuard": true,
             "detail": "大声地",
             "link": "xx",
