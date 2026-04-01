@@ -1,22 +1,6 @@
 {
     "songs": [
         {
-            "id": "1138",
-            "name": "滴滴答滴",
-            "artist": "等等等",
-            "language": "华语",
-            "tags": [
-                "等等等"
-            ],
-            "price": 0,
-            "isCaptain": false,
-            "isGuard": true,
-            "isGrandGuard": false,
-            "detail": "等等等",
-            "link": "ssss",
-            "imgUrl": "ssss"
-        },
-        {
             "id": "1137",
             "name": "Shallow",
             "artist": "Lady Gaga & Bradley Cooper",
