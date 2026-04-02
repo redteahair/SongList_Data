@@ -1,6 +1,22 @@
 {
     "songs": [
         {
+            "id": "1141",
+            "name": "波西米亚狂想曲",
+            "artist": "Queen-皇后乐队",
+            "language": "英语",
+            "tags": [
+                "摇滚"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "「波西米亚狂想曲」Queen-皇后乐队 | 决赛现场歌切【星月杯】",
+            "link": "https://www.bilibili.com/video/BV1EwifBXEh8/?spm_id_from=333.1387.homepage.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/a3150907c7e642df04404bf2d97eb67b23c70821.jpg"
+        },
+        {
             "id": "1140",
             "name": "Don't Look Back in Anger",
             "artist": "Oasis",
