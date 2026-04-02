@@ -1,6 +1,22 @@
 {
     "songs": [
         {
+            "id": "1139",
+            "name": "I Hate Myself for Loving You",
+            "artist": "Joan Jett & the Blackhearts",
+            "language": "英语",
+            "tags": [
+                "摇滚"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "机架直录「I Hate Myself for Loving You」Joan Jett【燃冰之声】",
+            "link": "https://www.bilibili.com/video/BV11ck4BREer/?spm_id_from=333.1387.homepage.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i2.hdslb.com/bfs/archive/e00a407c4bae1b465965f5be781b1d99b37fd62c.jpg"
+        },
+        {
             "id": "1138",
             "name": "DAZZLE",
             "artist": "黄宣",
