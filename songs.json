@@ -1,6 +1,38 @@
 {
     "songs": [
         {
+            "id": "1151",
+            "name": "我要的幸福",
+            "artist": "孙燕姿",
+            "language": "华语",
+            "tags": [
+                "流行"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "孙燕姿《我要的幸福》羽田依-典藏版现场【V你而唱】",
+            "link": "https://www.bilibili.com/video/BV12KyHYsEhk/?spm_id_from=333.1387.upload.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/cab8718f3451ec7120b72b35ba50dd3d7558167d.jpg"
+        },
+        {
+            "id": "1150",
+            "name": "花",
+            "artist": "藤井风",
+            "language": "日语",
+            "tags": [
+                "流行"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "「花」——藤井风｜丝滑醇厚低音R&B腔版【直播生唱】",
+            "link": "https://www.bilibili.com/video/BV1fWKizPE5L/?spm_id_from=333.1387.upload.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/76ccb7e266a3e97b0f6ac10d47c723a49947413f.jpg"
+        },
+        {
             "id": "1149",
             "name": "小镇姑娘",
             "artist": "黄宣",
