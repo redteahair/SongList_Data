@@ -1,6 +1,38 @@
 {
     "songs": [
         {
+            "id": "1144",
+            "name": "Prema",
+            "artist": "藤井风",
+            "language": "日语",
+            "tags": [
+                "流行"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "用第三只眼唱的「Prema」 | 中性原调翻唱",
+            "link": "https://www.bilibili.com/video/BV1H8YFzBEr4/?spm_id_from=333.1387.upload.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/1c6deb0473898c07845c788bfc58f35b2f406159.jpg"
+        },
+        {
+            "id": "1143",
+            "name": "烦死了",
+            "artist": "Ado",
+            "language": "日语",
+            "tags": [
+                "摇滚"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "⚡ 烦死了 ⚡ | 超燃怒音！无性别VUP超还原翻唱【万粉纪念】",
+            "link": "https://www.bilibili.com/video/BV1xN4y177rv/?spm_id_from=333.1387.upload.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/f9cf0973b4f266442787f1a35d86073653975428.jpg"
+        },
+        {
             "id": "1142",
             "name": "Honesty",
             "artist": "Billy Joel",
@@ -1260,9 +1292,9 @@
             "isCaptain": false,
             "isGuard": false,
             "isGrandGuard": false,
-            "detail": "",
-            "link": "",
-            "imgUrl": ""
+            "detail": "⚡ YELLOW ⚡ | 虚拟达米安和虚拟Ado的超帅合唱（？",
+            "link": "https://www.bilibili.com/video/BV1hV4y1H7Xq/?spm_id_from=333.1387.upload.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/cad52f80961270ffdc78f1952e8812fb1493b412.jpg"
         },
         {
             "id": "1063",
@@ -1966,7 +1998,7 @@
             "isGrandGuard": false,
             "detail": "现场歌切！开口跪的正太少年音！",
             "link": "https://www.bilibili.com/video/BV1Kh4y1t7XJ/",
-            "imgUrl": ""
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/ac145b3cc5db803324b7ee83d572fcb77e41f3c4.jpg"
         },
         {
             "id": "1019",
