@@ -1,6 +1,22 @@
 {
     "songs": [
         {
+            "id": "1148",
+            "name": "革命道中 - On The Way",
+            "artist": "AiNA THE END",
+            "language": "日语",
+            "tags": [
+                "流行"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "唱了「革命道中 - On The Way」TVsize【胆大党Season2 OP】",
+            "link": "https://www.bilibili.com/video/BV1cVaSz6ECr/?spm_id_from=333.1387.upload.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/69611ef3339aa388dae1ec691b58d3329c5f6101.jpg"
+        },
+        {
             "id": "1147",
             "name": "轻功水上飘",
             "artist": "黄宣",
