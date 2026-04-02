@@ -1,6 +1,22 @@
 {
     "songs": [
         {
+            "id": "1138",
+            "name": "DAZZLE",
+            "artist": "黄宣",
+            "language": "英语",
+            "tags": [
+                "爵士"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "⚠️虚拟黄宣下场啦！⚠️顶级微醺律动「DAZZLE」",
+            "link": "https://www.bilibili.com/video/BV129AJzZE9F/?spm_id_from=333.337.search-card.all.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/c57af052ee843b27371b0c44de06ba7f447f581c.jpg"
+        },
+        {
             "id": "1137",
             "name": "Shallow",
             "artist": "Lady Gaga & Bradley Cooper",
