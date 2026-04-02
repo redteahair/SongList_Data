@@ -1,6 +1,22 @@
 {
     "songs": [
         {
+            "id": "1140",
+            "name": "Don't Look Back in Anger",
+            "artist": "Oasis",
+            "language": "英语",
+            "tags": [
+                "摇滚"
+            ],
+            "price": 0,
+            "isCaptain": false,
+            "isGuard": false,
+            "isGrandGuard": false,
+            "detail": "中性音「Don't Look Back in Anger」Oasis-绿洲乐队【燃冰之声】",
+            "link": "https://www.bilibili.com/video/BV1RarmBcEUS/?spm_id_from=333.1387.homepage.video_card.click&vd_source=bff764631dfe2953e1b76fd7672b274c",
+            "imgUrl": "https://i1.hdslb.com/bfs/archive/dc18fa0ed1f2c0fa6ec1b292287a78eb1c8a7bb5.jpg@672w_378h_1c.avif"
+        },
+        {
             "id": "1139",
             "name": "I Hate Myself for Loving You",
             "artist": "Joan Jett & the Blackhearts",
